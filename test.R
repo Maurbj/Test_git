@@ -1,3 +1,5 @@
 wdwsw
 #nueva verson
-r<-rnorm(100)
+r<-rnorm(50)
+
+
